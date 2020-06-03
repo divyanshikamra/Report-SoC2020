@@ -1,4 +1,4 @@
-##Changes from Assignment 1
+## Changes from Assignment 1
 
 For the sake of simplicity,
 this basic approach considers and an array of 1000 
