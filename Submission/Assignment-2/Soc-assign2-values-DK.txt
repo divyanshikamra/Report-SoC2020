@@ -1,0 +1,2 @@
+average iterations=38.282
+maxima of fitted curve=1094.92

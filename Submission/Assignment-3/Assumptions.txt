@@ -1,0 +1,3 @@
+We interpreted the problem as if there were 10 people infected in each capital and the country was set to lock down. Whereas the problem was framed such that these infected people have toured around for 5 days and then the lockdown is set up. 
+
+Other assumptions have been mentioned in the report.
