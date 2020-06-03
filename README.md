@@ -24,9 +24,9 @@ Group Project
 * [Assignment-5: Music Predictor System](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-5)
 Group Project
 
-* Neural Networks
-1. [Perceptron](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-6)
-2. [XoR Gate](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-7)
+* Neural Networks: Indivitual Project
+     1. [Perceptron](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-6)
+     2. [XoR Gate](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-7)
 
 
 
