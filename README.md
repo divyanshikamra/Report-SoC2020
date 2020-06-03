@@ -3,8 +3,8 @@
 **Project: Intelligent Agents**
 
 ## Task 1: Dice Simulation using R
-* [Problem statement](https://github.com/divyanshikamra/Intelligent-Agents )
-* [My Submission](https://github.com/divyanshikamra/Intelligent-Agents)
+* [Problem statement](https://github.com/divyanshikamra/Report-SoC2020/blob/master/Submission/Task1-Dice%20Simulation/ProblemStatement-Task%201.pdf )
+* [My Submission](https://github.com/divyanshikamra/Report-SoC2020/blob/master/Submission/Task1-Dice%20Simulation )
 
 ## Task 2: Basic approach to Assignment 1
 * [Assumptions]
