@@ -28,6 +28,7 @@ Group Project
      1. [Perceptron](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-6)
      2. [XoR Gate](https://github.com/divyanshikamra/Report-SoC2020/tree/master/Submission/Assignment-7)
 
-
+* [Product Research: Group Project](https://github.com/divyanshikamra/Report-SoC2020/blob/master/Submission/Pattern%20recognitions%20Algorithms%20(3).pdf)    
+       - My contribution: PCA and Bag of Words
 
 
